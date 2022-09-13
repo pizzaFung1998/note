@@ -21,3 +21,13 @@ There are two ways to gain a foothold—one using **Metasploit** and one via a m
 There are two ways to escalate privileges to root on the target after obtaining a foothold. Make use of helper scripts such as **LinEnum** and **LinPEAS** to assist you. Filter through the information searching for two well-known privilege escalation techniques.
 
 Have fun, never stop learning, and do not forget to **think outside of the box**!
+- Root a Retired Easy Box
+- Root a Retired Medium Box
+- Root an Active Box
+- Complete an Easy Challenge
+- Share a Walkthrough of a Retired Box
+- Complete Offensive Academy Modules
+- Root Live Medium/Hard Boxes
+- Complete A Track
+- Win a Hack The Box Battlegrounds Battle
+- Complete A Pro Lab
